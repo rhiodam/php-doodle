@@ -26,3 +26,35 @@ body{
     flex-direction: column;
     align-items: center;
 }
+
+.main-section .searchContainer .searchButton {
+    /*background-image: -webkit-gradient(linear,left top,left bottom,from(#f5f5f5),to(#f1f1f1));*/
+    /*background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);*/
+    /*-webkit-border-radius: 2px;*/
+    /*-webkit-user-select: none;*/
+    /*background-color: #f2f2f2;*/
+    /*border: 1px solid #f2f2f2;*/
+    /*border-radius: 4px;*/
+    /*color: #5F6368;*/
+    /*cursor: pointer;*/
+    /*font-family: arial,sans-serif;*/
+    /*font-size: 14px;*/
+    /*margin: 11px 4px;*/
+    /*min-width: 54px;*/
+    /*padding: 0 16px;*/
+    /*text-align: center;*/
+}
+
+.main-section .searchContainer .searchBox {
+    /*background-color: transparent;*/
+    /*border: none;*/
+    /*margin: 0;*/
+    /*padding: 0;*/
+    /*color: rgba(0,0,0,.87);*/
+    /*word-wrap: break-word;*/
+    /*outline: none;*/
+    /*display: flex;*/
+    /*flex: 100%;*/
+    /*-webkit-tap-highlight-color: transparent;*/
+    /*margin-top: -37px;*/
+}
